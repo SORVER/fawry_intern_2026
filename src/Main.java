@@ -8,5 +8,6 @@ void main() {
 
     // functions
     // car -
+    System.out.println(1200);
 
 }

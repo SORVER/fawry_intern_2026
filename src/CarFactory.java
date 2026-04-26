@@ -6,6 +6,7 @@ public class CarFactory {
     }
 
     Car createCar(String engineType) {
-        Car car = New Car(engineType);
+        Car car = new Car(engineType);
+        return car;
     }
 }

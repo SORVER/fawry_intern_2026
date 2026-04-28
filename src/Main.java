@@ -8,6 +8,7 @@ void main() {
 
     // functions
     // car -
-    System.out.println(1200);
+    CarFactory fac1 = new CarFactory("plafac");
+    Car car1 = fac1.createCar("gas");
 
 }

@@ -12,4 +12,7 @@ public class Engine {
         speed-=1;
     }
 
+    public int getSpeed() {
+        return speed;
+    }
 }
